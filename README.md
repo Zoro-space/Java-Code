@@ -9,3 +9,5 @@
 4.Rearrange array in increasing-decreasing order
 
 5.Count frequency of each element in an array
+
+6.Remove duplicates from unsorted array
