@@ -12,4 +12,4 @@
 
 6.Remove duplicates from unsorted array
 
-7.Rotate array by K elements - Block Swap Algorithm*
+7.Rotate array by K elements *
