@@ -11,3 +11,5 @@
 5.Count frequency of each element in an array
 
 6.Remove duplicates from unsorted array
+
+7.Rotate array by K elements - Block Swap Algorithm*
