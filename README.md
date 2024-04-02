@@ -15,3 +15,5 @@
 7.Rotate array by K elements *
 
 8.Reverse String
+
+9.Check given string is palindrome or not
