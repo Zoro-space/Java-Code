@@ -17,3 +17,5 @@
 8.Reverse String
 
 9.Check given string is palindrome or not
+
+10.Check given strings are Anagram or not
