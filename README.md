@@ -19,3 +19,7 @@
 9.Check given string is palindrome or not
 
 10.Check given strings are Anagram or not
+
+11.
+
+12.Change every letter with the next lexicographic alphabet in the given string
