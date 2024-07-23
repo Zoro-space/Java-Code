@@ -23,3 +23,4 @@
 11.
 
 12.Change every letter with the next lexicographic alphabet in the given string
+13.Second smallest and Second Largest Element
